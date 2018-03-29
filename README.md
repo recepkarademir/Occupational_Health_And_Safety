@@ -1,4 +1,5 @@
-﻿# Occupational-Health-And-Safety (İş Güvenliği ve Sağlığı)
+﻿![ISG](safetyicons_3.jpg)
+# Occupational-Health-And-Safety (İş Güvenliği ve Sağlığı)
 ____________________________________________________________________________________________________________________________________
 
 Özet:
