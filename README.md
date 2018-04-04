@@ -6,7 +6,7 @@ ________________________________________________________________________________
 ------------------------------
 
 Bu doküman bilgisayar mühendisleri için iş sağlığı ve güvenliği hakkında temel bilgileri içerir.
-Bilgisayar mühendisinin çalışırken dikkat etmesi gereken hususlar ve iş nedeniyle ortaya çıkacak rahatsızlıklar belirli başlıklar altında açıklanmıştır.
+Bilgisayar mühendislerinin çalışırken dikkat etmesi gereken hususlar ve iş nedeniyle bilgisayar mühendislerinde ortaya çıkacak rahatsızlıklar belirli başlıklar altında açıklanmıştır.
 İş kazalarının ve rahatsızlıklarının önlenmesi için alınması gereken tedbirler incelenmiştir.
 
 
