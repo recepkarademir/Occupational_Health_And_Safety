@@ -5,7 +5,7 @@ ________________________________________________________________________________
 Özet:
 ------------------------------
 
-Bu dokümanda bilgisayar mühendisleri için iş sağlığı ve güvenliği hakkında temel bilgileri içerir.
+Bu doküman bilgisayar mühendisleri için iş sağlığı ve güvenliği hakkında temel bilgileri içerir.
 Bilgisayar mühendisinin çalışırken dikkat etmesi gereken hususlar ve iş nedeniyle ortaya çıkacak rahatsızlıklar belirli başlıklar altında açıklanmıştır.
 İş kazalarının ve rahatsızlıklarının önlenmesi için alınması gereken tedbirler incelenmiştir.
 
