@@ -16,3 +16,5 @@ Bilgisayar mühendislerinin çalışırken dikkat etmesi gereken hususlar ve iş
 
 Recep KARADEMİR :2015141003@cumhuriyet.edu.tr<br>
 recepkarademir0018@gmail.com
+
+PROJE KULLANILABİLİRLİK SEVİYESİ: 7/10
