@@ -14,7 +14,7 @@ Bilgisayar mühendislerinin çalışırken dikkat etmesi gereken hususlar ve iş
 İletişim
 ------------------------------
 
-Recep KARADEMİR :2015141003@cumhuriyet.edu.tr<br>
+Recep KARADEMİR<br>
 recepkarademir0018@gmail.com
 
 ## BU PROJENİN KULLANILABİLİRLİK SEVİYESİ: 7/10
